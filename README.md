@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nexion11
 - 👀 I’m interested in ML & AI Development 
-- 🌱 I’m currently learning Tensorflow and RNN's
+- 🌱 I’m currently learning LLMs
 - 💞️ I’m looking to collaborate on AI Projects 
 - 📫 How to reach me-->
 - 😄 Pronouns: he/him
